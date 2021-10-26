@@ -1,0 +1,38 @@
+.header {
+    padding: 60px;
+    background: #7ec2fe;
+    color: orange;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+.footer {
+    padding: 20px;
+    background: #7ec2fe;
+    color: white;
+    font-size: 30px;
+}
+.image_bg {
+    background-image: url('images/yatta.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.span {
+    padding:20px;
+    background : orange;
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.body {
+    padding: 20px;
+    background: #7ec2fe;
+    font-size: 20px;
+
+}
